@@ -12,7 +12,7 @@ object **OduardoRuiz** {
  val languages = listOf("Bootstrap", "CSS", "Laravel", "PHP", "Kotlin", "Angular") 
 }
 ```
-
+##
 
 
 
@@ -32,7 +32,7 @@ object **OduardoRuiz** {
  <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /></code>
  <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /></code>
 
-
+##
 
 ## **GitHub Estatísticas**
 
@@ -49,6 +49,8 @@ object **OduardoRuiz** {
 </div>
 
 ##
+
+## **Onde me encontrar?**
 <div>
 <a href="https://www.linkedin.com/in/oduardoruiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 <a href="https://www.instagram.com/oduardo_" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  ></a>
