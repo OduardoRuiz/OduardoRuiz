@@ -8,7 +8,12 @@
 
 ##
 
-[![card](https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=Tokyonight)](https://github.com/OduardoRuiz/)
+[![card](https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=dark)](https://github.com/OduardoRuiz/)
+
+[![OduardoRuiz](https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark)](https://github.com/OduardoRuiz/)
+  
+
+
 
 
 
