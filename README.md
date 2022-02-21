@@ -36,7 +36,7 @@ object **OduardoRuiz** {
 
 ## **Estatísticas do meu GitHub**
 
- <div >
+ <div align="center" >
 <a href="https://github.com/OduardoRuiz">
   <img  width="380" heigth="350" src="https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=dark&hide_langs_below=1" alt="OduardoRuiz" />
 </a>
