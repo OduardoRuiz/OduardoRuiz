@@ -23,7 +23,7 @@ object **OduardoRuiz** {
   val name = "Carlos Eduardo Ruiz"
   val acknowledgements = "Web Developer"
   val languages = listOf("Bootstrap", "JavaScript", "Laravel", "PHP", "Kotlin", "Angular, HTML/CSS", "React") 
-  val devTools  = listOf("AndroidStudio", "Eclipse","Intellij", "Xampp", "AdobeXD", "VScode", "Git/GitHub", "Node", "Yarn", "Others" )
+  val devTools  = listOf("AndroidStudio", "Eclipse","Intellij", "Xampp", "AdobeXD", "VScode", "Node", "Yarn", "Others" )
  
  }
 ```
