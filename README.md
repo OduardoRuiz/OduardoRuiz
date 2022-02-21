@@ -45,7 +45,6 @@ object **OduardoRuiz** {
  <img  width="320" heigth="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark&line_height=27" alt="OduardoRuiz"/>
 </a>
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/59852595/154966945-c0ee52ba-4b02-4ace-977a-25323ce2588e.gif"/>
 
 </div>
 
@@ -63,7 +62,7 @@ object **OduardoRuiz** {
 </div>
   
   
-  <div align="center"> 
+  <div> 
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
