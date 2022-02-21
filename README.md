@@ -3,7 +3,7 @@
 
 
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **OduardoRuiz** {
@@ -34,21 +34,24 @@ object **OduardoRuiz** {
 
 ##
 
-## **GitHub Estatísticas**
+## **Estatísticas do meu GitHub**
 
+ <div >
 <a href="https://github.com/OduardoRuiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=dark&hide_langs_below=1" />
+  <img  width="380" heigth="350" src="https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=dark&hide_langs_below=1" alt="OduardoRuiz" />
 </a>
 
 <a href="https://github.com/OduardoRuiz">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+ <img  width="320" heigth="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark&line_height=27" alt="OduardoRuiz"/>
 </a>
 
-
+<img align="right" width="280" src="https://user-images.githubusercontent.com/59852595/154966945-c0ee52ba-4b02-4ace-977a-25323ce2588e.gif"/>
 
 </div>
 
-##
+
+ 
+ 
 
 ## **Onde me encontrar?**
 <div>
@@ -57,11 +60,10 @@ object **OduardoRuiz** {
 <a href="https://wa.me/message/R5XERYN6P4GOK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
  <a href="mailto:carloseduardoruizs@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-
 </div>
   
   
-  <div> 
+  <div align="center"> 
 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
