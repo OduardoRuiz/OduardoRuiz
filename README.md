@@ -2,10 +2,13 @@
 <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```HTML
-• Meu nome é Carlos Eduardo, Atualmente estou estagiando como desenvolvedor FullStack no SENAC 
+• Meu nome é Eduardo
+• Sou desenvolvedor web com foco em Front-end
+• Porém tambem tenho experiencia com desenvolvimento Back-end (API REST e RESTful, Etc)
+• Atualmente estou estagiando como desenvolvedor FullStack no SENAC 
 • Tambem estou no 5º Semestre da faculdade de sistemas para internet
-• abaixo estão algumas stacks que domino ou ja tive contato
-• Tambem algumas ferramentas que utilizo para acelerar o desenvolvimento das aplicações
+• Abaixo estão algumas stacks que domino ou ja tive contato
+• Tambem algumas ferramentas que utilizo
 • Meus contatos estão na sessão "Onde me encontrar"
 ```
 
