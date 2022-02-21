@@ -5,8 +5,9 @@
 ```HTML
 • Meu nome é Eduardo
 • Sou desenvolvedor web com foco em Front-end
-• Possuo experiencia com desenvolvimento Back-end (API REST e RESTful, Etc)
-• Atualmente estou estagiando como desenvolvedor Full Stack no SENAC 
+• Possuo experiencia com desenvolvimento Back-end
+ (API REST e RESTful, Etc)
+• Atualmente estou estagiando como desenvolvedor FullStack no SENAC 
 • Curso o 5º Semestre de Sistemas para Internet
 • Abaixo estão algumas stacks que domino ou ja tive contato
 • Também algumas ferramentas que utilizo
