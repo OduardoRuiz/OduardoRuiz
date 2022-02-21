@@ -12,7 +12,7 @@
 ```
  
 <div align="center">
-  <img  width="250" heigth="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
+  <img  width="500" heigth="450" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1">
 </div>
 
 ```kotlin
