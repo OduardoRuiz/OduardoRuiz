@@ -29,14 +29,16 @@ object **OduardoRuiz** {
 
 ## **Estatísticas do meu GitHub**
 
+
+<a href="https://github.com/OduardoRuiz">
+ <img  width="320" heigth="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark&line_height=27" alt="OduardoRuiz"/>
+</a>
+
  <div align="center"  >
 <a href="https://github.com/OduardoRuiz">
   <img  width="380" heigth="350" src="https://github-readme-stats.vercel.app/api?username=OduardoRuiz&theme=dark&hide_langs_below=1" alt="OduardoRuiz" />
 </a>
 
-<a href="https://github.com/OduardoRuiz">
- <img  width="320" heigth="250"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=OduardoRuiz&hide=html&layout=compact&theme=dark&line_height=27" alt="OduardoRuiz"/>
-</a>
 
 
 </div>
