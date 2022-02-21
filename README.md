@@ -49,24 +49,21 @@ object **OduardoRuiz** {
 
 ## **Onde me encontrar?**
 <div align="center">
-<a href="https://www.linkedin.com/in/oduardoruiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/oduardoruiz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/oduardo_" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  ></a>
-<a href="https://wa.me/message/R5XERYN6P4GOK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+ <a href="https://wa.me/message/R5XERYN6P4GOK1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
  <a href="mailto:carloseduardoruizs@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
-</div>
-</div>
 <div align="center">
-<img  width="250" heigth="200" src="https://user-images.githubusercontent.com/59852595/154988281-a5bd702d-c4c9-4a05-ac7f-b3bfa8554fdf.gif">
- </div>
-
-  
-  <div> 
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  <img  width="250" heigth="200" src="https://user-images.githubusercontent.com/59852595/154988281-a5bd702d-c4c9-4a05-ac7f-b3bfa8554fdf.gif">
 </div>
+
+   ##
+ <div align="center">
+   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+</div> 
+
 
 
 
