@@ -1,38 +1,27 @@
-### Oie devs 👋
+### Oie devs 👋 
 
-
+```HTML
+• Meu nome é Carlos Eduardo, Atualmente estou estagiando como desenvolvedor FullStack no SENAC 
+• Tambem estou no 5º Semestre da faculdade de sistemas para internet
+• abaixo estão algumas stacks que domino ou ja tive contato
+• Tambem algumas ferramentas que utilizo para acelerar o desenvolvimento das aplicações
+• Meus contatos estão na sessão "Onde me encontrar"
+```
 
 
 <img align="right" width="250" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
 object **OduardoRuiz** {
- val name = "Carlos Eduardo Ruiz"
+  val name = "Carlos Eduardo Ruiz"
   val acknowledgements = "Web Developer"
- val languages = listOf("Bootstrap", "CSS", "Laravel", "PHP", "Kotlin", "Angular") 
-}
+  val languages = listOf("Bootstrap", "JavaScript", "Laravel", "PHP", "Kotlin", "Angular, HTML/CSS", "React") 
+  val devTools  = listOf("AndroidStudio", "Eclipse","Intellij", "Xampp", "AdobeXD", "VScode", "Git/GitHub", "Node", "Yarn", "Others" )
+ 
+ }
 ```
 ##
 
-
-
-
-
-
-## **Linguagens e Ferramentas:**  
-<div>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> </code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> </code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> </code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /></code>
- <code> <img width="35" heigth="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" /></code>
-
-##
 
 ## **Estatísticas do meu GitHub**
 
@@ -49,7 +38,6 @@ object **OduardoRuiz** {
 </div>
 
 
- 
  
 
 ## **Onde me encontrar?**
