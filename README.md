@@ -2,10 +2,9 @@
 
 ```HTML
 • Meu nome é Eduardo
-• Sou desenvolvedor web com foco em Front-end
+• Sou desenvolvedor web FullStack
 • Possuo experiencia com desenvolvimento Back-end (API REST e RESTful, Etc)
-• Atualmente estou estagiando como desenvolvedor FullStack no SENAC 
-• Curso o 5º Semestre de Sistemas para Internet
+• Formado no curso de  Sistemas para Internet no Centro Universitário SENAC 
 • Abaixo estão algumas stacks que domino ou ja tive contato
 • Também algumas ferramentas que utilizo
 • Meus contatos estão na sessão "Onde me encontrar"
