@@ -16,7 +16,7 @@
 
 ```kotlin
 object **OduardoRuiz** {
-  val name = "Carlos Eduardo Ruiz"
+  val name = "Eduardo Ruiz"
   val acknowledgements = "Web Developer"
   val languages = listOf("Bootstrap", "JavaScript", "Laravel", "PHP", "Kotlin", "Angular, HTML/CSS", "React") 
   val devTools  = listOf("AndroidStudio", "Eclipse","Intellij", "Xampp", "AdobeXD", "VScode", "Node", "Yarn", "Others" )
@@ -58,7 +58,7 @@ object **OduardoRuiz** {
 
    ##
  <div align="center">
-   <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
+   <img src="https://github.com/OduardoRuiz/OduardoRuiz/blob/output/github-contribution-grid-snake.svg">
 </div> 
 
 
